@@ -1,0 +1,4 @@
+System started
+admin logged in
+User error
+admin performed backup
